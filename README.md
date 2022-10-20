@@ -27,9 +27,9 @@ I finished Netology courses "Java developer from scratch"
 - [Сертификаты об обучении (Educational certificates)](https://github.com/AASukhov/Certificates).
 
 ## Контакты (Contacts):
-e-mail: sukhovaa8@gmail.com
-telegram: @AndreySukh9
-LinkedIn: https://www.linkedin.com/in/andrey-sukhov/
+- e-mail: sukhovaa8@gmail.com
+- telegram: @AndreySukh9
+- LinkedIn: https://www.linkedin.com/in/andrey-sukhov/
 
 
 
