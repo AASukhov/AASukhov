@@ -7,6 +7,7 @@ Hello! My name is Andrey. I am Java developer.
 I finished Netology courses "Java developer from scratch"
 
 ## Hard skills:
+- Java core
 - git
 - Maven, Gradle
 - JUnit
@@ -20,7 +21,7 @@ I finished Netology courses "Java developer from scratch"
 
 ## Ссылки на проекты (Projects links):
 - [Дипломный проект по курсу Нетологии "Облачное хранилище" (Diploma project: Cloud Storage)](https://github.com/AASukhov/Netology_Diploma_Project).
-- [Курсовой проект "Конвертер в текстовую графику" (Course project: Converter into a text graphics)](https://github.com/AASukhov/Course_project).
+- [Курсовой проект "Конвертер в текстовую графику" (Course project: Converter to Text Graphics)](https://github.com/AASukhov/Course_project).
 - [Домашние работы по курсу Нетологии (Netology Homeworks)](https://github.com/AASukhov/Portfolio).
 
 ## Иные ссылки (Other links):
