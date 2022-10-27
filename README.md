@@ -20,7 +20,7 @@ I finished Netology courses "Java developer from scratch"
 - Английский-B2 (English - B2)
 
 ## Ссылки на проекты (Projects links):
-- ["Облачное хранилище" (Cloud Storage)](https://github.com/AASukhov/Netology_Diploma_Project).
+- ["Облачное хранилище" (Cloud Storage)](https://github.com/AASukhov/Cloud_storage).
 - ["Конвертер в текстовую графику" (Converter to Text Graphics)](https://github.com/AASukhov/Course_project).
 
 ## Иные ссылки (Other links):
