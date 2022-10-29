@@ -24,7 +24,7 @@ I finished Netology courses "Java developer from scratch"
 - ["Конвертер в текстовую графику" (Converter to Text Graphics)](https://github.com/AASukhov/Graphics_converter).
 
 ## Иные ссылки (Other links):
-- [Домашние работы по курсу Нетологии (Netology Homeworks)](https://github.com/AASukhov/Portfolio).
+- [Домашние работы по курсу Нетологии (Netology Homeworks)](https://github.com/AASukhov/Homeworks).
 - [Сертификаты об обучении (Educational certificates)](https://github.com/AASukhov/Certificates).
 
 ## Контакты (Contacts):
