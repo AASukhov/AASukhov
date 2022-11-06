@@ -14,7 +14,7 @@ I finished Netology courses "Java developer from scratch"
 - Spring Boot, Spring Security, Spring MVC
 - Docker
 - nginx
-- SQL (MySQL).
+- SQL (MySQL, PostgreSQL).
 
 ## Soft skills:
 - Английский-B2 (English - B2)
