@@ -22,6 +22,7 @@ I finished Netology courses "Java developer from scratch"
 ## Ссылки на проекты (Projects links):
 - ["Облачное хранилище" (Cloud Storage)](https://github.com/AASukhov/Cloud_storage).
 - ["Конвертер в текстовую графику" (Converter to Text Graphics)](https://github.com/AASukhov/Graphics_converter).
+- ["Сетевой чат" (Network_chat)](https://github.com/AASukhov/Network_chat).
 
 ## Иные ссылки (Other links):
 - [Домашние работы по курсу Нетологии (Netology Homeworks)](https://github.com/AASukhov/Homeworks).
