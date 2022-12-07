@@ -3,9 +3,6 @@
 ## Меня зовут Андрей, я Java-разработчик. 
 Hello! My name is Andrey. I am Java developer.
 
-## Я закончил курсы Нетологии "Java-разработчик с нуля".
-I finished Netology courses "Java developer from scratch"
-
 ## Hard skills:
 - Java core
 - git
