@@ -17,7 +17,7 @@ Hello! My name is Andrey. I am Java developer.
 - Английский-B2 (English - B2)
 
 ## Ссылки на проекты (Projects links):
-- ["Облачное хранилище" (Cloud Storage)](https://github.com/AASukhov/Cloud_storage](https://github.com/AASukhov/Cloud_storage_project).
+- ["Облачное хранилище" (Cloud Storage)](https://github.com/AASukhov/Cloud_storage_project).
 - ["Конвертер в текстовую графику" (Converter to Text Graphics)](https://github.com/AASukhov/Graphics_converter).
 - ["Сетевой чат" (Network chat)](https://github.com/AASukhov/Network_chat).
 - ["Сервис перевода денег" (Money Transfer Service)](https://github.com/AASukhov/MoneyService).
