@@ -5,13 +5,15 @@ Hello! My name is Andrey. I am Java developer.
 
 ## Hard skills:
 - Java core
+- HTML, CSS
 - git
 - Maven, Gradle
 - JUnit
 - Spring Boot, Spring Security, Spring MVC
 - Docker
 - nginx
-- SQL (MySQL, PostgreSQL).
+- SQL (MySQL, PostgreSQL)
+- NoSQL (Google Firebase)
 
 ## Soft skills:
 - Английский-B2 (English - B2)
