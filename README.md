@@ -27,6 +27,7 @@ Hello! My name is Andrey. I am Java developer.
 ## Иные ссылки (Other links):
 - [Домашние работы по курсу Нетологии (Netology Homeworks)](https://github.com/AASukhov/Homeworks).
 - [Сертификаты об обучении (Educational certificates)](https://github.com/AASukhov/Certificates).
+- [Тестовые задания (Test tasks)](https://github.com/AASukhov/all_test_task).
 
 ## Контакты (Contacts):
 - e-mail: sukhovaa8@gmail.com
