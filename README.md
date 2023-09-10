@@ -4,16 +4,17 @@
 Hello! My name is Andrey. I am Software Engineer.
 
 ## Hard skills:
-- Java core
-- HTML, CSS, JavaScript
-- git
-- Maven, Gradle
-- JUnit
+- Java core (8,11,17)
 - Spring Boot, Spring Security, Spring MVC
+- Maven, Gradle
+- SQL (MySQL, PostgreSQL, Oracle)
+- NoSQL (Google Firebase)
+- JUnit
+- HTML, CSS, JavaScript (React)
+- git
 - Docker
 - nginx
-- SQL (MySQL, PostgreSQL)
-- NoSQL (Google Firebase)
+- linux
 
 ## Soft skills:
 - Английский-B2 (English - B2)
